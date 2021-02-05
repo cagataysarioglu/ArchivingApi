@@ -1,1 +1,1 @@
-# Film archiving API based on Python.
+Film archiving API based on Python.
